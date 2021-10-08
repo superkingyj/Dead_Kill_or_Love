@@ -1,6 +1,9 @@
 # Dead_Kill_or_Love
 2019-1 게임 프로그래밍 기초 기말 프로젝트
 
+# Developed by ..
+김유진, 한채윤
+
 # Game Cover
 ![게임커버](https://user-images.githubusercontent.com/43868490/121031529-61f7cc80-c7e5-11eb-9452-c0c424424a6a.png)
 
